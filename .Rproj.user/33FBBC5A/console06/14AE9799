@@ -1,0 +1,8 @@
+]0;~/Desktop/Test_web_tutorial[?1034hdhcp-x232-191:Test_web_tutorial priyachauhan$ [Kdhcp-x232-191:Test_web_tutorial priyachauhan$ echo "Some text"
+Some text
+]0;~/Desktop/Test_web_tutorialdhcp-x232-191:Test_web_tutorial priyachauhan$ echo "Some text"[Kecho "Some text" >> README.md
+]0;~/Desktop/Test_web_tutorialdhcp-x232-191:Test_web_tutorial priyachauhan$ giy[Ktinit
+bash: gitinit: command not found
+]0;~/Desktop/Test_web_tutorialdhcp-x232-191:Test_web_tutorial priyachauhan$ git init
+Initialized empty Git repository in /Users/priyachauhan/Desktop/Test_web_tutorial/.git/
+]0;~/Desktop/Test_web_tutorialdhcp-x232-191:Test_web_tutorial priyachauhan$ git add .
